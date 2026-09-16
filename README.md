@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**paulobodna/paulobodna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paulo, a software developer with a strong background in Computer Science, who nurtures interest in inderstanding how things work under the hood.
+<br/>
 
-Here are some ideas to get you started:
+Also, I'm enjoying life being a 🎹 pianist, a 💪 gym rat and a 📖 bookworm. Not in this exact order.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ What I work with
+
+**Backend:**
+Java · Spring Boot · PostgreSQL · Ruby on Rails
+
+**Frontend:**
+TypeScript · Angular
+
+**Tools:**
+Linux · Docker · CI/CD · Insomnia · Notion
+
+
+## 💬 Socials:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/paulobodna) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulobodnarchuki)
+
+## 💼 Working on...
+
+💻 I'm currently building... **LogicHub**, a sudoku puzzles platform.
+
+Currently working on deterministic Sudoku boards generation, validation, authentication and game history.
