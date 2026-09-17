@@ -24,8 +24,9 @@ Linux · Docker · CI/CD · Insomnia · Notion
 
 Currently working on deterministic Sudoku boards generation, validation, authentication and game history.
 
+<br/>
 
-<h3 align='center'>💬 DM me:</h3>
+<h4 align='center'>also at:</h4>
 
 <p align='center'>
   <a href="https://www.instagram.com/paulobodna" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
